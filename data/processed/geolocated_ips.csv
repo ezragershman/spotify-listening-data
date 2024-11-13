@@ -1,0 +1,84 @@
+unique_ip_address,subnet,city,region,country,latitude,longitude
+173.79.66.78,173.79.66.0/24,Washington D.C.,District of Columbia,US,38.8950368,-77.0365427
+70.110.22.156,70.110.22.0/24,Washington D.C.,District of Columbia,US,38.8950368,-77.0365427
+108.18.101.195,108.18.101.0/24,Washington D.C.,District of Columbia,US,38.8950368,-77.0365427
+71.246.200.163,71.246.200.0/24,Washington D.C.,District of Columbia,US,38.8950368,-77.0365427
+129.64.121.98,129.64.121.0/24,Waltham (Brandeis),Massachusetts,US,,
+129.64.166.4,129.64.166.0/24,Waltham (Brandeis),Massachusetts,US,,
+129.64.123.114,129.64.123.0/24,Waltham (Brandeis),Massachusetts,US,,
+129.64.155.124,129.64.155.0/24,Waltham (Brandeis),Massachusetts,US,,
+129.64.153.87,129.64.153.0/24,Waltham (Brandeis),Massachusetts,US,,
+107.127.45.66,107.127.45.0/24,New York,New York,US,40.7127281,-74.0060152
+24.148.79.81,24.148.79.0/24,Chicago,Illinois,US,,
+107.119.44.1,107.119.44.0/24,St Louis,Missouri,US,,
+166.194.135.178,166.194.135.0/24,Chicago,Illinois,US,,
+166.205.140.99,166.205.140.0/24,Chicago,Illinois,US,,
+71.114.105.10,71.114.105.0/24,Washington D.C.,District of Columbia,US,,
+199.195.178.243,199.195.178.0/24,Keyes,California,US,,
+108.147.92.132,108.147.92.0/24,Lincolnwood,Illinois,US,,
+2600:387:f:5b17::2,2600:387:f:5b17::/64,Darien,Illinois,US,,
+2600:387:f:7619::9,2600:387:f:7619::/64,Zion,Illinois,US,,
+2600:387:f:6a16::b,2600:387:f:6a16::/64,Lawrence,Indiana,US,,
+166.199.152.13,166.199.152.0/24,West Lafayette,Indiana,US,,
+96.95.91.5,96.95.91.0/24,Oak Park,Illinois,US,41.8878145,-87.7887615
+2600:387:f:5b14::4,2600:387:f:5b14::/64,Chicago,Illinois,US,41.8755616,-87.6244212
+166.194.132.52,166.194.132.0/24,West Lafayette,Indiana,US,40.4258686,-86.9080655
+2600:387:15:2c1b::5,2600:387:15:2c1b::/64,Chicago,Illinois,US,41.8755616,-87.6244212
+2600:387:f:6a17::7,2600:387:f:6a17::/64,Bloomington,Indiana,US,39.1670396,-86.5342881
+2600:387:f:5b13::8,2600:387:f:5b13::/64,Lincolnwood,Illinois,US,,
+2600:387:f:7618::c,2600:387:f:7618::/64,Lawrence,Indiana,US,38.9719137,-95.2359403
+2600:387:f:6a1b::7,2600:387:f:6a1b::/64,Carrollton,Kentucky,US,32.9537349,-96.8902816
+107.77.206.136,107.77.206.0/24,Chicago,Illinois,US,41.8755616,-87.6244212
+2600:387:f:6a10::4,2600:387:f:6a10::/64,Hoffman Estates,Illinois,US,42.0427256,-88.0792782
+12.74.213.82,12.74.213.0/24,South Chicago,Illinois,US,41.7345874,-87.5513222
+2600:387:15:2c10::a,2600:387:15:2c10::/64,Chicago,Illinois,US,41.8755616,-87.6244212
+2601:249:8680:3250:78e4:194:60c:7ff2,2601:249:8680:3250::/64,Chicago,Illinois,US,41.8755616,-87.6244212
+24.13.173.197,24.13.173.0/24,River Forest,Illinois,US,41.8978091,-87.8139483
+2600:387:f:5b19::7,2600:387:f:5b19::/64,National City,California,US,,
+2600:387:f:5b10::5,2600:387:f:5b10::/64,Lincolnwood,Illinois,US,,
+2600:387:f:6a18::3,2600:387:f:6a18::/64,Ashburn,Virginia,US,,
+2600:387:f:5b15::2,2600:387:f:5b15::/64,Bloomington,Indiana,US,,
+2600:387:15:2c11::3,2600:387:15:2c11::/64,Chicago,Illinois,US,,
+2600:387:f:7616::7,2600:387:f:7616::/64,Meridian Hills,Indiana,US,,
+2600:387:f:7614::2,2600:387:f:7614::/64,Rolling Meadows,Illinois,US,,
+2600:387:f:7612::9,2600:387:f:7612::/64,Batavia,Illinois,US,,
+2600:387:f:5b11::9,2600:387:f:5b11::/64,Chicago,Illinois,US,,
+184.169.45.4,184.169.45.0/24,Newark,New Jersey,US,,
+2600:387:f:7813::7,2600:387:f:7813::/64,Capitol Heights,Maryland,US,,
+2601:19e:4581:b10:f039:690:9ec9:9bce,2601:19e:4581:b10::/64,New London,Connecticut,US,,
+2600:387:f:7611::3,2600:387:f:7611::/64,Lincolnwood,Illinois,US,,
+2600:387:15:2c18::1,2600:387:15:2c18::/64,Chicago,Illinois,US,,
+2600:387:f:6a11::5,2600:387:f:6a11::/64,Ashburn,Virginia,US,,
+2600:387:f:6a1a::4,2600:387:f:6a1a::/64,Greenfield,Indiana,US,,
+2600:387:f:7615::4,2600:387:f:7615::/64,Chicago,Illinois,US,,
+2600:387:f:7610::5,2600:387:f:7610::/64,Indianapolis,Indiana,US,,
+2600:387:f:5b1b::1,2600:387:f:5b1b::/64,Crystal Lawns,Illinois,US,,
+2600:387:f:5b1a::8,2600:387:f:5b1a::/64,Bloomington,Indiana,US,,
+2600:387:f:5b18::3,2600:387:f:5b18::/64,Calumet City,Illinois,US,,
+2600:387:15:2c15::2,2600:387:15:2c15::/64,Chicago,Illinois,US,,
+2600:387:15:2c12::a,2600:387:15:2c12::/64,Chicago,Illinois,US,,
+2600:387:f:761a::9,2600:387:f:761a::/64,Fairmont,Illinois,US,39.4850848,-80.1425781
+2600:387:f:7c12::6,2600:387:f:7c12::/64,Huron,South Dakota,US,44.36308,-98.214388
+2600:6c44:27f:1aea:3004:dde5:bedb:5485,2600:6c44:27f:1aea::/64,Two Rivers,Wisconsin,US,44.149206,-87.5682149
+2600:387:15:271a::c,2600:387:15:271a::/64,Wamac,Illinois,US,,
+2600:387:f:5b16::a,2600:387:f:5b16::/64,Ingalls Park,Illinois,US,,
+2600:387:15:2c19::6,2600:387:15:2c19::/64,Blue Island,Illinois,US,,
+168.91.221.120,168.91.221.0/24,Chicago,Illinois,US,,
+2600:387:f:6a13::7,2600:387:f:6a13::/64,Elmwood Park,Illinois,US,,
+2600:387:15:2c14::5,2600:387:15:2c14::/64,Bloomington,Indiana,US,,
+2600:387:f:5b12::2,2600:387:f:5b12::/64,Oak Park,Illinois,US,,
+50.233.222.124,50.233.222.0/24,Chicago,Illinois,US,,
+2600:387:f:5a15::4,2600:387:f:5a15::/64,Akron,Ohio,US,,
+96.241.118.169,96.241.118.0/24,Washington D.C.,District of Columbia,US,,
+2600:387:15:2c17::2,2600:387:15:2c17::/64,Oak Park,Illinois,US,41.8878145,-87.7887615
+2600:387:15:2d11::b,2600:387:15:2d11::/64,Lansing,Michigan,US,42.7338254,-84.5546295
+2600:387:15:2d13::8,2600:387:15:2d13::/64,Lansing,Michigan,US,42.7338254,-84.5546295
+12.74.238.44,12.74.238.0/24,New York,New York,US,,
+2600:387:15:2d14::2,2600:387:15:2d14::/64,Elizabeth,New Jersey,US,,
+2600:387:f:6a12::3,2600:387:f:6a12::/64,Lincolnwood,Illinois,US,,
+2600:387:f:6a14::a,2600:387:f:6a14::/64,Wayne,Illinois,US,38.4251958,-88.4197678
+2600:387:f:913::6,2600:387:f:913::/64,Columbia,Missouri,US,38.951883,-92.3337366
+207.104.43.41,207.104.43.0/24,Boca Raton,Florida,US,26.3586885,-80.0830984
+2600:1700:24f4:7000:15dc:2c67:6667:6d56,2600:1700:24f4:7000::/64,Dania Beach,Florida,US,26.0524224,-80.143929
+2600:387:f:d10::8,2600:387:f:d10::/64,Boca Raton,Florida,US,26.3586885,-80.0830984
+75.104.93.146,75.104.93.0/24,Miami Springs,Florida,US,25.8223198,-80.289495

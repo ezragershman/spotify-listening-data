@@ -17,3 +17,6 @@ __pycache__/
 # Ignore other system files
 .DS_Store
 Thumbs.db
+
+
+*[Mm]oshe*
